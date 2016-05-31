@@ -1,0 +1,6 @@
+c:\users\sconger\documents\visual studio 2015\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+c:\users\sconger\documents\visual studio 2015\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csprojResolveAssemblyReference.cache
+c:\users\sconger\documents\visual studio 2015\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+c:\users\sconger\documents\visual studio 2015\Projects\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+c:\users\sconger\documents\visual studio 2015\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+c:\users\sconger\documents\visual studio 2015\Projects\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
